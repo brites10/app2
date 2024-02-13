@@ -4,7 +4,7 @@ const perguntas = [
         respostas: [
             "A) O inverno está chegando",
             "B) Nós não semeamos",
-            "C) O fogo e o sangue"
+            "C) O fogo e o sangue" 
         ],
         correta: 0
     },
